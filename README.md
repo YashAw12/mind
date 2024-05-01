@@ -2,7 +2,7 @@
 A web replica of OpenAI, built with Next.js using Supabase and the Shadcn UI.
 #### Test User
 ```config
-Email: kunaldangi345@gmail.com
+Email: yash.awasthi68@gmail.com
 Password: 12345678
 ```
 
